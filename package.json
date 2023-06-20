@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "learning-express-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albe68/express.js.git"
+  },
+  "keywords": [
+    "express-js"
+  ],
+  "author": "albe68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albe68/express.js/issues"
+  },
+  "homepage": "https://github.com/albe68/express.js#readme"
+}
